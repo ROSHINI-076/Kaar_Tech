@@ -10,6 +10,7 @@ function App() {
     <div>
       <h1>Welcome to kaar tech practice</h1>
       <p>My first automated deployment  </p>
+      <p> i have deployed the application sucessfully </p>
     </div>
   );
 }

@@ -11,6 +11,7 @@ function App() {
       <h1>Welcome to kaar tech practice</h1>
       <p>My first automated deployment  </p>
       <p> i have deployed the application sucessfully </p>
+      <p> place aagurom kaar tech </p>
     </div>
   );
 }
